@@ -1,0 +1,29 @@
+.close {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+}
+
+.gradientPane {
+    -fx-background-color: linear-gradient(to bottom left, #8732aa, #aa00ff);
+}
+
+.signInBut {
+    -fx-background-color: #8a70d6;
+    -fx-text-fill: #ffffff;
+}
+
+.signInBut:hover {
+    -fx-text-fill: #6F4CBB;
+}
+
+.signInBut:pressed {
+    -fx-text-fill: #8a70d6;
+}
+
+.forgotPass {
+    -fx-cursor: hand;
+}
+
+.resetPassBut {
+    -fx-background-color: #00bdda;
+}
